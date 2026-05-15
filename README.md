@@ -53,7 +53,7 @@ Implementation.mp4  		   # Video demonstrating application
 	```
 
 ## Datasets
-- MNIST and DIDA datasets are stored in `datasets/` and `Implementation/EC2/datasets/` but won't be included.
+- MNIST and DIDA datasets are stored in `datasets/` and `Implementation/EC2/datasets/`.
 
 ## Requirements
 See `requirements.txt` for all imports
