@@ -28,6 +28,7 @@ notebooks/                     # Classification model notebook
 predicted_images/              # Output image predictions 
 requirements.txt
 test_images/                   # Images for testing
+Implementation.mp4  		   # Video demonstrating application
 ```
 
 ## Usage
